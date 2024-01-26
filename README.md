@@ -1,4 +1,4 @@
 # Rising-game-
-My first git repository 
-<span>
-Kanchan</span>
+My first git repository
+<br>
+Kanchan
